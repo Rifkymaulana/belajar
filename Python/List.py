@@ -27,3 +27,5 @@ print(fruits)
 fruits.pop(5)
 print(fruits)
 
+print(1)
+
